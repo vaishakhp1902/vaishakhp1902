@@ -3,5 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishakhp1902&show_icons=true&theme=radical)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaishakhp1902)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
