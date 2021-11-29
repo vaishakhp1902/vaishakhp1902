@@ -4,7 +4,7 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
+    user = 'Vaishakh'
 	current_edu = "CSIT"
     currently_learning = "Javascript"
     fun_fact = "I hate Chillies"
@@ -16,7 +16,7 @@
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Adelaide()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
@@ -27,9 +27,9 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vaishakhp1902&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishakhp1902&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishakhp1902&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
