@@ -27,7 +27,7 @@
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaishakhp1902&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/&hide=css?user=vaishakhp1902&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vaishakhp1902&&show_icons=true&count_private=true&theme=github_dark&hide=css">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishakhp1902&theme=blueberry_duo"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishakhp1902&layout=compact&theme=github_dark">|<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vaishakhp1902"/>
 
