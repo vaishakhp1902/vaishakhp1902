@@ -42,12 +42,13 @@
 ## Programming Languages
 
 <p>
+	 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+	<a href="#"><img alt="Swift" src="(https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+	<a href="#"><img alt="Swift" src="(https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
 ## Frameworks and Libraries
@@ -57,6 +58,7 @@
    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img alt="React-Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+	<a href="#"><img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"></a>
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
 	 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
@@ -72,13 +74,6 @@
 	
 </p>
 
-## Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
 
 ## Databases and Cloud hosting
 
@@ -90,15 +85,33 @@
 
 ## Software and Tools
 <p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
-	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
+	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+	<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
 </p>
+
+## Version Control
+
+<p>
+	
+	a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+	
+	a href="#"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+	
+	a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+	
+	
+	
+	
+</p>
+	
+	
+	
+	
+	
 
 ## Connect with Me
 
