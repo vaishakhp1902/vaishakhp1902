@@ -39,7 +39,7 @@
 	
 
 <p align="center">
-## Programming Languages
+	<b>Programming Languages</b>
 </p>
 
 <p align="center">
