@@ -38,7 +38,7 @@
 	
 	
 
-<p align="center">
+<p align="center" font-size=15px>
 	<b>Programming Languages</b>
 </p>
 
