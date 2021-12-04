@@ -38,9 +38,7 @@
 	
 	
 
-<p align="center" font-size=15px>
-	<b>Programming Languages</b>
-</p>
+## Programming Languages
 
 <p align="center">
 	 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
