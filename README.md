@@ -33,14 +33,13 @@
 
 
 ## Waka time stats
-<p>
-	
-	
-	[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/vaishakhp1902/github-readme-stats)
+
+[![Vaishakh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaishakhp1902)](https://github.com/vaishakhp1902/github-readme-stats)
+
 
 	
 	
-</p>
+
 
 ## Programming Languages
 
