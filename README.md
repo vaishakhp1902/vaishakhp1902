@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## Who am I?
+             ## Who am I?
 
  ```python
   class WhoAmI:
@@ -120,7 +120,7 @@
 	
 	
 
-## Connect with Me
+                ## Connect with Me
 
 
 <p align="center">
